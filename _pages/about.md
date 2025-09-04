@@ -7,7 +7,7 @@ subtitle: Research Assistant at VinUniversity
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avt.jpg
   image_circular: false # crops the image to make it circular
   #more_info: >
     #<p>Ho Chi Minh city, Vietnam</p>
