@@ -28,7 +28,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a AI Safety Research Assistant, currently working with Prof. Khoa D. Doan at VinUniversity.
+## About Me
+I'm an AI Safety Research Assistant passionate about developing safe, reliable, and beneficial artificial intelligence systems. I focus on understanding and mitigating risks in AI systems while advancing the field of AI alignment and safety research.
 
-# Backgrounds
-I got a Bachelor of Engineering at HCMUT, under the guidance of Dr. Nguyen Duc Dung.
+- 🔬 I'm currently working as an AI Safety Research Assistant with Prof. Khoa D. Doan at VinUniversity.
+- 🎓 Bachelor of Engineering from Ho Chi Minh City University of Technology (August 2025).
+- 🧠  I'm currently learning advanced machine learning safety techniques, AI alignment methodologies, and generative vision models.
+- 👯 I'm looking to collaborate on AI safety research, interpretability studies, and responsible AI development.
+- 💬 Ask me about AI safety, machine learning, research methodologies, and AI alignment.
+- ⚡ Fun fact: I'm good at Martial Art!
