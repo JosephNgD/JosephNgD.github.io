@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# Hi there, I'm [Your Name] 👋
+## Updating...
 
 ## About Me
 I'm an AI Safety Research Assistant passionate about developing safe, reliable, and beneficial artificial intelligence systems. I focus on understanding and mitigating risks in AI systems while advancing the field of AI alignment and safety research.
